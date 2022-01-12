@@ -305,7 +305,6 @@ async def subscribe(url, api_key, passphrase, secret_key, channels):
             print("连接断开，正在重连……")
             continue
 
-
 # trade
 async def trade(url, api_key, passphrase, secret_key, trade_param):
     while True:

@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 .root_password
+.json_key
 __pycache__/
 *.py[cod]
 *$py.class
